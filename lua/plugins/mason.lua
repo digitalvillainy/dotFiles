@@ -1,6 +1,6 @@
 return {
   {
-    "mason-lspconfig",
+    "mason",
     opts = {
       ensure_installed = {
         "lua_ls",
