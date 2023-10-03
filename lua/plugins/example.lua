@@ -209,13 +209,6 @@ return {
         "shfmt",
         "flake8",
         "eslint-lsp",
-      },
-    },
-  },
-  {
-    "williamboman/mason-lspconfig.nvim",
-    opts = {
-      ensure_installed = {
         "lua_ls",
         "rust_analyzer",
         "bashls",
@@ -235,9 +228,9 @@ return {
         "prismals",
         "solidity",
         "tailwindcss",
-      }
-    }
-  }
+      },
+    },
+  },
 
   -- Use <tab> for completion and snippets (supertab)
   -- first: disable default <tab> and <s-tab> behavior in LuaSnip
