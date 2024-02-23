@@ -16,7 +16,6 @@ return {
       "php-cs-fixer",
       "phpstan",
       "pint",
-      "prettier",
       "shfmt",
       "solidity-ls",
       "stylua",
